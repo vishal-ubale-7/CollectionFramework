@@ -7,8 +7,8 @@ import java.util.Map;
 public class MapDemo
 {
     public static void main(String []args) {
-        Map<Integer, String> map = new HashMap();
-        map.put(1, "vishal");
+        Map<Integer, String> map = new HashMap(); // create object Map
+        map.put(1, "vishal");   // store ket value pairs
         map.put(2, "ajay");
         map.put(3, "pranav");
         map.put(4, "raj");
