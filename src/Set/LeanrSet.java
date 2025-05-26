@@ -19,6 +19,7 @@ public class LeanrSet
         set.add(30);
         set.add(40);
         set.add(50);
+        set.add(60);
         System.out.println(set);
 
         /*set.remove(10);
