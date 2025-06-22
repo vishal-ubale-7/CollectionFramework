@@ -6,7 +6,7 @@ public class LearnLinkedList
 {
     public static void main(String args [])
     {
-        LinkedList ll = new LinkedList();
+        LinkedList ll = new LinkedList();   // store duplicate value
         ll.add(234);
         ll.add(34.75);
         ll.add("vishal");
