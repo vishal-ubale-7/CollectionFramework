@@ -6,7 +6,7 @@ public class HashMapDemo
 {
     public static void main(String []args)
     {
-        HashMap<Integer ,String> hm = new HashMap();
+        HashMap<Integer ,String> hm = new HashMap(); // store key-map value paire 
         hm.put(10,"aaa");
         hm.put(11,"bbb");
         hm.put(12,"ccc");
