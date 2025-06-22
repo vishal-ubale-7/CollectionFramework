@@ -26,7 +26,7 @@ public class LearnArrayList
 
         System.out.println(student.get(3));// get the value using mentions index number
         */
-
+        
         ArrayList<Integer> list = new ArrayList<>();
         list.add(10);
         list.add(20);
